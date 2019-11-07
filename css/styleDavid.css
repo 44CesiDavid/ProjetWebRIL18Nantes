@@ -1,5 +1,23 @@
 /*************Connexion*************************/
 
+.formulaireConnexion{
+    height: 150px;
+    background-color: #ececec;
+    margin: auto;
+    padding: 10px;
 
+}
 
 /*************Option*************************/
+
+.champCheckbox{
+    background-color: #ececec;
+    width: 600px;
+    margin: auto;
+    padding: 10px;
+
+}
+
+.boutonValider{
+    margin: auto;
+}
